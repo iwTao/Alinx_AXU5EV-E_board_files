@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> 
+
+<part_info part_name="xczu5ev-sfvc784-1-i">
+    <pins>
+        <pin index="0" name ="CLK_200_P" iostandard="DIFF_SSTL12" loc="AE5"/>
+        <pin index="1" name ="CLK_200_N" iostandard="DIFF_SSTL12" loc="AF5"/>
+
+        <pin index="2" name ="uart2_PL_TX" loc="AH12"/>
+        <pin index="3" name ="uart2_PL_RX" loc="AH11"/>
+
+        <pin index="4" name ="GPIO_PB_SW0" iostandard="LVCMOS33" loc="AF12"/>
+
+        <pin index="5" name ="GPIO_LED_0" iostandard="LVCMOS33" loc="AE12"/>
+
+        <pin index="6" name ="c0_ddr4_act_n"  loc="AD4"/>
+
+        <pin index="7" name ="c0_ddr4_adr0"  loc="AG8"/>
+        <pin index="8" name ="c0_ddr4_adr1"  loc="AB8"/>
+        <pin index="9" name ="c0_ddr4_adr2"  loc="AF8"/>
+        <pin index="10" name ="c0_ddr4_adr3"  loc="AC8"/>
+        <pin index="11" name ="c0_ddr4_adr4"  loc="AF7"/>
+        <pin index="12" name ="c0_ddr4_adr5"  loc="AD7"/>
+        <pin index="13" name ="c0_ddr4_adr6"  loc="AH7"/>
+        <pin index="14" name ="c0_ddr4_adr7"  loc="AE9"/>
+        <pin index="15" name ="c0_ddr4_adr8"  loc="AH8"/>
+        <pin index="16" name ="c0_ddr4_adr9"  loc="AC9"/>
+        <pin index="17" name ="c0_ddr4_adr10" loc="AE7"/>
+        <pin index="18" name ="c0_ddr4_adr11" loc="AH9"/>
+        <pin index="19" name ="c0_ddr4_adr12" loc="AC6"/>
+        <pin index="20" name ="c0_ddr4_adr13" loc="AD9"/>
+        <pin index="21" name ="c0_ddr4_adr14_WE_N" loc="AF6"/>
+        <pin index="22" name ="c0_ddr4_adr15_CAS_N" loc="AB7"/>
+        <pin index="23" name ="c0_ddr4_adr16_RAS_N" loc="AB5"/> 
+
+        <pin index="24" name ="c0_ddr4_ba0" loc="AH6"/>
+        <pin index="25" name ="c0_ddr4_ba1" loc="AC7"/>
+
+        <pin index="26" name ="c0_ddr4_bg0" loc="AE8"/>
+
+        <pin index="27" name ="c0_ddr4_clk0_p" loc="AG6"/>
+
+        <pin index="28" name ="c0_ddr4_clk0_n" loc="AG5"/>
+
+        <pin index="29" name ="c0_ddr4_cke0" loc="AE4"/>
+
+        <pin index="30" name ="c0_ddr4_cs0_n" loc="AB6"/>
+
+        <pin index="31" name ="c0_ddr4_dm_dbi_n0"  loc="AG4"/>
+        <pin index="32" name ="c0_ddr4_dm_dbi_n1"  loc="AD5"/>
+
+        <pin index="33" name ="c0_ddr4_dq0"  loc="AG1"/>
+        <pin index="34" name ="c0_ddr4_dq1"  loc="AF1"/>
+        <pin index="35" name ="c0_ddr4_dq2"  loc="AH1"/>
+        <pin index="36" name ="c0_ddr4_dq3"  loc="AH2"/>
+        <pin index="37" name ="c0_ddr4_dq4"  loc="AF3"/>
+        <pin index="38" name ="c0_ddr4_dq5"  loc="AE3"/>
+        <pin index="39" name ="c0_ddr4_dq6"  loc="AH3"/>
+        <pin index="40" name ="c0_ddr4_dq7"  loc="AG3"/>
+        <pin index="41" name ="c0_ddr4_dq8"  loc="AC1"/>
+        <pin index="42" name ="c0_ddr4_dq9"  loc="AB1"/>
+        <pin index="43" name ="c0_ddr4_dq10"  loc="AC2"/>
+        <pin index="44" name ="c0_ddr4_dq11"  loc="AB2"/>
+        <pin index="45" name ="c0_ddr4_dq12"  loc="AB3"/>
+        <pin index="46" name ="c0_ddr4_dq13"  loc="AB4"/>
+        <pin index="47" name ="c0_ddr4_dq14"  loc="AC3"/>
+        <pin index="48" name ="c0_ddr4_dq15"  loc="AC4"/>
+
+        <pin index="49" name ="c0_ddr4_dqs0_p"  loc="AE2"/>
+        <pin index="50" name ="c0_ddr4_dqs1_P"  loc="AD2"/>
+
+        <pin index="51" name ="c0_ddr4_dqs0_n"  loc="AF2"/>
+        <pin index="52" name ="c0_ddr4_dqs1_n"  loc="AD1"/>
+
+        <pin index="53" name ="c0_ddr4_odt0"  loc="AH4"/>
+
+        <pin index="54" name ="c0_ddr4_reset_n"  loc="AG9"/>
+
+
+
+
+
+
+
+    </pins>
+
+</part_info>
+
