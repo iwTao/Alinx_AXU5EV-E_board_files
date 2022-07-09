@@ -22,7 +22,6 @@
                 <user_parameter name="CONFIG.PSU__DPAUX__PERIPHERAL__ENABLE" value="1"/>
                 <user_parameter name="CONFIG.PSU__DPAUX__PERIPHERAL__IO" value="MIO 27 .. 30"/>
                 <user_parameter name="CONFIG.PSU__ACT_DDR_FREQ_MHZ" value="1199.988037"/>
-                <user_parameter name="CONFIG.PSU__GEM__TSU__ENABLED" value="0"/>
                 <user_parameter name="CONFIG.PSU__ENET3__PERIPHERAL__ENABLE" value="1"/>
                 <user_parameter name="CONFIG.PSU__ENET3__FIFO__ENABLE" value="0"/>
                 <user_parameter name="CONFIG.PSU__ENET3__PTP__ENABLE" value="0"/>
@@ -71,7 +70,7 @@
                 <user_parameter name="CONFIG.PSU__QSPI__PERIPHERAL__MODE" value="Single"/>
                 <user_parameter name="CONFIG.PSU__QSPI__PERIPHERAL__DATA_MODE" value="x4"/>
                 <user_parameter name="CONFIG.PSU__QSPI__GRP_FBCLK__ENABLE" value="1"/>
-                <user_parameter name="CONFIG.PSU__QSPI__GRP_FBCLK__IO" value="6"/>
+                <user_parameter name="CONFIG.PSU__QSPI__GRP_FBCLK__IO" value="MIO 6"/>
                 <user_parameter name="CONFIG.PSU__SD0__PERIPHERAL__ENABLE" value="1"/>
                 <user_parameter name="CONFIG.PSU__SD0__PERIPHERAL__IO" value="MIO 13 .. 22"/>
                 <user_parameter name="CONFIG.PSU__SD0__GRP_CD__ENABLE" value="0"/>
